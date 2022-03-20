@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;
+    background-color:black;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+*{
+    color:rgb(146, 227, 241);
+}
+
+.destacado{
+    color:orange;
+}
+.destacado1{
+ color:red;
+}
+.destacado2{
+    color:rgba(72, 255, 0, 0.829);
+}
+.resaltar{
+    font-weight:bolder;
+    color:rgb(196, 89, 196);
+    font-size: larger;
+}
